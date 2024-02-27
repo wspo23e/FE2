@@ -1,0 +1,3 @@
+DisableFlingHealthBar = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wspo23e/FE-BACONHAIR-INVISIBLE/main/febacon"))()
